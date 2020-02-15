@@ -1,1 +1,55 @@
 
+Created and Uploaded by Safdar Nazir
+
+This project consists of the Basic Elements of C++. It is created in CLion by JetBrains Inc.
+
+Currently, there are four different problems in the project. I have attached problems below. 
+
+When I will update the directory. I will also update this file.
+
+                                                Problems:
+Problem 1:
+Write a program that can be used to assign seats for a commercial airplane. The airplane has 13 rows, with six
+seats in each row. Rows 1 and 2 are first class, rows 3 through 7 are business class, and rows 8 through 13 are economy class.
+Your program must prompt the user to enter the following information:
+a. Ticket type (first class, business class, or economy class)
+b. Desired seat
+Output the seating plan in the following form:
+
+*Form
+
+Here, * indicates that the seat is available; X indicates that the seat is occupied. 
+Make this a menu-driven program; show the user’s choices and allow the user to make the appropriate choices.
+
+Problem 2:
+Jason, Samantha, Ravi, Sheila, and Ankit are preparing for an upcoming marathon. Each day of the week, 
+they run a certain number of miles and write them into a notebook. At the end of the week, 
+they would like to know the number of miles run each day, the total miles for the week, 
+and average miles run each day. Write a program to help them analyze their data. 
+Your program must contain parallel arrays: an array to store the names of the runners 
+and a two-dimensional array of five rows and seven columns to store the number of miles run 
+by each runner each day. Furthermore, your program must contain at least the following functions: 
+a function to read and store the runners’ names and the numbers of miles run each day; a 
+function to find the total miles run by each runner and the average number of miles run each day, 
+and a function to output the results. (You may assume that the input data is stored in a file and 
+each line of data is in the following form: 
+runnerName milesDay1 milesDay2 milesDay3 milesDay4 milesDay5 milesDay6 milesDay7.)
+
+Problem 3:
+Write a program that uses a two-dimensional array to store the highest and lowest temperatures for each month of the year. 
+The program should output the average high, average low, and the highest and lowest temperatures for the year. 
+Your program must consist of the following functions:
+a. Function getData: This function reads and stores data in the two-dimensional array.
+b. Function averageHigh: This function calculates and returns the average high temperature for the year.
+c. Function averageLow: This function calculates and returns the average low temperature for the year.
+d. Function indexHighTemp: This function returns the index of the highest high temperature in the array.
+e. Function indexLowTemp: This function returns the index of the lowest low temperature in the array.
+(These functions must all have the appropriate parameters.)
+
+Problem 4:
+Task 4: Write a program to convert the time from 24-hour notation to 12-hour notation and vice versa. 
+Your program must be menu-driven, giving the user the choice of converting the time between the two notations. 
+Furthermore, your program must contain at least the following function: a function to convert the time 
+from 24-hour notation to 12-hour notation, a function to convert the time from 12-hour notation to 24-hour 
+notation, a function to display the choices, function(s) to get the input, 
+and function(s) to display the results. (For 12-hour time notation, your program must display AM or PM.)
