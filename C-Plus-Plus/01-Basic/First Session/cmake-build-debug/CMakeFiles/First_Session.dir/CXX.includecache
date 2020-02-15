@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/safdar/Documents/CLion/First Session/Time.cpp
+Time.h
+/home/safdar/Documents/CLion/First Session/Time.h
+iostream
+-
+cstring
+-
+
+/home/safdar/Documents/CLion/First Session/Time.h
+

@@ -1,0 +1,3 @@
+/home/safdar/Documents/CLion/First Session/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/safdar/Documents/CLion/First Session/cmake-build-debug/CMakeFiles/First_Session.dir
+/home/safdar/Documents/CLion/First Session/cmake-build-debug/CMakeFiles/edit_cache.dir

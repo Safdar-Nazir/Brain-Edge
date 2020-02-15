@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/First_Session.dir/main.cpp.o CMakeFiles/First_Session.dir/Ticket_Menu.cpp.o CMakeFiles/First_Session.dir/Miles.cpp.o CMakeFiles/First_Session.dir/Temperature.cpp.o CMakeFiles/First_Session.dir/Time.cpp.o  -o First_Session 
